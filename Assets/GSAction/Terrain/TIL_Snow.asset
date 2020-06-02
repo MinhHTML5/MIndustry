@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e4e4fc705376343a3e65b25d94f0e2, type: 3}
+  m_Name: TIL_Snow
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: -8394923397258659077, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -700802387755607878, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: 7584599556470768026, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -6653427178143589517, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -1373021062083815541, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: 3902038328246712289, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -432508135219837307, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -3438506031057545582, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: 7985254847781677195, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -8609862783061455279, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: 8235637959329656600, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -502909287690801590, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: 6821385647441620854, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -8713245854877983712, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
+  - {fileID: -3540746672530995561, guid: e0b13bc61d3ee944ba8a35a273ea3a32, type: 3}
