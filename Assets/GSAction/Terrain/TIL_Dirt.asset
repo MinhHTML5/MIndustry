@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Dirt
+  m_Script: {fileID: 11500000, guid: 535f8e525ff367c4ba67961e201a05ed, type: 3}
+  m_Name: TIL_Dirt
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
@@ -34,3 +34,9 @@ MonoBehaviour:
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
   m_ColliderType: 1
+  m_Sprites:
+  - {fileID: -8275502208090371910, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+  - {fileID: 1412778643854539469, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+  - {fileID: -1278900557311105747, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+  - {fileID: 8641727722977497643, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+  - {fileID: -5696172171868935861, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}

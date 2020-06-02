@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1952428946855285147}
   - component: {fileID: 8032362084078280990}
   m_Layer: 31
-  m_Name: PLT_Ground
+  m_Name: PLT_Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,7 +139,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: c20b5226f66c3364d8406cf6a858b058, type: 2}
   - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: e7a89e5a1164bef47a19c0a1abacc798, type: 2}
+    m_Data: {fileID: 11400000, guid: 0447ff5b5ad50b544b2b287cf28b5588, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 1c1b43b27bbb33c47aadb5a28c2a84ff, type: 2}
   m_TileSpriteArray:
@@ -153,7 +153,8 @@ Tilemap:
     m_Data: {fileID: -8394923397258659077, guid: e0b13bc61d3ee944ba8a35a273ea3a32,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 21300000, guid: 92aa609a9f11ba943bfa05da5bcd7d2f, type: 3}
+    m_Data: {fileID: -5696172171868935861, guid: 92aa609a9f11ba943bfa05da5bcd7d2f,
+      type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 6049605792901559095, guid: dc4848e69feb137469e1233279fd5406,
       type: 3}
@@ -179,6 +180,8 @@ Tilemap:
   m_TileColorArray:
   - m_RefCount: 5
     m_Data: {r: 1, g: 1, b: 1, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0, g: 0, b: 0, a: 0}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
